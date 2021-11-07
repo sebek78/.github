@@ -5,8 +5,8 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 ## My skills used at work:
 
 - AngularJS (1st, the legacy version)
+- React with Redux, Saga, and Reselect
 - Ruby with Sinatra framework (rarely)
-- React with Redux, Saga, and Reselect (very rarely)
 - JavaScript, HTML, CSS + Sass
 - Others: Git, Webpack, ESLint, Linux
 
@@ -20,15 +20,17 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 - improve my React skills
 - work as much as possible with Typescript
 - learn server-side programming with Nest.js
+- learn Nx, Storybook, Jest
 
-### My personal roadmap
+### My current roadmap
 
-| Category      | Now        | Learning focus  |
-| ------------- | ---------- | --------------- |
-| Frontend      | Javascript | TypeScript      |
-| FE frameworks | AngularJS  | React           |
-| Data-layers   | Redux      | Redux-toolkit   |
-| Backend       | Ruby       | Node.js         |
-| BE frameworks | Sinatra    | Nest.js         |
-| Tools         | Webpack    | Nx, Storybook   |
-| Database      | PostgreSQL | pg with TypeORM |
+| Category      | Work                  | Free time           |
+| ------------- | --------------------- | ------------------- |
+| Frontend      | Javascript            | TypeScript          |
+| FE frameworks | AngularJS, React      | React               |
+| Data-layers   | Redux, Reselect, Saga | Redux-toolkit, Saga |
+| Backend       | Ruby                  | Node.js             |
+| BE frameworks | Sinatra               | Nest.js             |
+| Testing       |                       | Jest                |
+| Tools         | Webpack               | Nx, Storybook       |
+| Database      | PostgreSQL            | pg with TypeORM     |
