@@ -8,29 +8,30 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 - React with Redux, Saga, and Reselect
 - Ruby with Sinatra framework (rarely)
 - JavaScript, HTML, CSS + Sass
-- Others: Git, Webpack, ESLint, Linux
 
-## My skills used at home:
+## My other skills used after hours:
 
-- React, Typescript
+- Typescript
 - Nestj.js (backend framework based on Node.js)
+- Webpack, ESLint
 
 ## My self-improvement goals in 2021-2022:
 
+- work only with Typescript
 - improve my React skills
-- work as much as possible with Typescript
 - learn server-side programming with Nest.js
 - learn Nx, Storybook, Jest
 
-### My current roadmap
+### My current technology roadmap
 
-| Category      | Work                  | Free time           |
-| ------------- | --------------------- | ------------------- |
-| Frontend      | Javascript            | TypeScript          |
-| FE frameworks | AngularJS, React      | React               |
-| Data-layers   | Redux, Reselect, Saga | Redux-toolkit, Saga |
-| Backend       | Ruby                  | Node.js             |
-| BE frameworks | Sinatra               | Nest.js             |
-| Testing       |                       | Jest                |
-| Tools         | Webpack               | Nx, Storybook       |
-| Database      | PostgreSQL            | pg with TypeORM     |
+| Category      | Work                  | After hours            |
+| ------------- | --------------------- | ---------------------- |
+| Frontend      | Javascript            | TypeScript             |
+| FE frameworks | AngularJS, React      | React                  |
+| Data-layers   | Redux, Reselect, Saga | Redux-toolkit, Saga    |
+| Backend       | Ruby                  | Node.js                |
+| BE frameworks | Sinatra               | Nest.js                |
+| Others        | Material UI           | Styled components      |
+| Database      | PostgreSQL            | pg with TypeORM        |
+| Tools         |                       | Webpack, Nx, Storybook |
+| Testing       |                       | Jest                   |
