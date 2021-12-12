@@ -21,6 +21,7 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 - improve my React skills
 - learn server-side programming with Nest.js
 - learn Nx, Storybook, Jest
+- try React Native
 
 ### My current technology roadmap
 
@@ -34,4 +35,6 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 | Others        | Material UI           | Styled components      |
 | Database      | PostgreSQL            | pg with TypeORM        |
 | Tools         |                       | Webpack, Nx, Storybook |
-| Testing       |                       | Jest                   |
+| Testing       |                       |                        |
+| Learning      |                       | Jest, Storybook, Nx    |
+| Playground    |                       | React native           |
