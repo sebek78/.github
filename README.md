@@ -12,7 +12,9 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 ## My other skills used after hours:
 
 - Typescript
-- Nestj.js (backend framework based on Node.js)
+- MUI (component library)
+- Nest.js (backend framework based on Node.js)
+- TypeORM
 - Webpack, ESLint
 
 ## My self-improvement goals in 2021-2022:
@@ -25,16 +27,16 @@ I'm Front End Developer with about two years of experience. I work mostly in int
 
 ### My current technology roadmap
 
-| Category      | Work                  | After hours            |
-| ------------- | --------------------- | ---------------------- |
-| Frontend      | Javascript            | TypeScript             |
-| FE frameworks | AngularJS, React      | React                  |
-| Data-layers   | Redux, Reselect, Saga | Redux-toolkit, Saga    |
-| Backend       | Ruby                  | Node.js                |
-| BE frameworks | Sinatra               | Nest.js                |
-| Others        | Material UI           | Styled components      |
-| Database      | PostgreSQL            | pg with TypeORM        |
-| Tools         |                       | Webpack, Nx, Storybook |
-| Testing       |                       |                        |
-| Learning      |                       | Jest, Storybook, Nx    |
-| Playground    |                       | React native           |
+| Category      | Work                  | After hours             |
+| ------------- | --------------------- | ----------------------- |
+| Frontend      | Javascript            | TypeScript              |
+| FE frameworks | AngularJS, React      | React                   |
+| Data-layers   | Redux, Reselect, Saga | Redux-toolkit, Saga     |
+| Backend       | Ruby                  | Node.js                 |
+| BE frameworks | Sinatra               | Nest.js                 |
+| Others        | Material UI           | Styled components, MUI  |
+| Database      | PostgreSQL            | PostgreSQL with TypeORM |
+| Tools         |                       | Webpack, ESlint         |
+| Testing       |                       |                         |
+| Learning      |                       | Jest, Storybook, Nx     |
+| Playground    |                       | React native            |
